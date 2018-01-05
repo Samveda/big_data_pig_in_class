@@ -27,6 +27,8 @@ Apache Pig is a platform for analyzing large data sets that consists of a high-l
 - Components of PIG
 - Extending PIG where required to achieve different objectives
 - Running and Executing a PIG script
+
+## Agenda
 - Why we need Pig
 - Pig v/s Mapreduce
 - Pig Latin Processing
@@ -34,7 +36,7 @@ Apache Pig is a platform for analyzing large data sets that consists of a high-l
 - Pig Assignments
 
 ## Slides
-[Pig]()
+[Pig](https://github.com/commit-live-students/big_data_pig_in_class/blob/master/notebooks/Hadoop_Day-5-%20Pig.pdf)
 
 
 ## Post Reads
