@@ -7,7 +7,7 @@ Apache Pig is a platform for analyzing large data sets that consists of a high-l
 
 ## At a glance
 * In Class Instruction: 4 Hours
-  * In Class code along Dataset: orders_Pig, student_details
+  * In Class code along [Dataset](https://github.com/commit-live-students/big_data_pig_in_class/tree/master/data): orders_Pig, student_details
   
   
 ## In Class Activity
